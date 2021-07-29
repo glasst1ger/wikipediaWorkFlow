@@ -1,0 +1,74 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "com.codecool.wikipediatest.WikipediaTest",
+    "children" : [ {
+      "name" : "testWikipedia()",
+      "uid" : "ea460d4712a24130",
+      "parentUid" : "0ff00baae3c9bd10e48574a8fa7eb4e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627576141418,
+        "stop" : 1627576157314,
+        "duration" : 15896
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testFrameworkSearch()",
+      "uid" : "a0b6a753bfb12b95",
+      "parentUid" : "0ff00baae3c9bd10e48574a8fa7eb4e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627576157383,
+        "stop" : 1627576163006,
+        "duration" : 5623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testChangeFontSettings()",
+      "uid" : "19467971ff5ba78f",
+      "parentUid" : "0ff00baae3c9bd10e48574a8fa7eb4e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627576163011,
+        "stop" : 1627576170213,
+        "duration" : 7202
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testLoginWiki()",
+      "uid" : "d9ac62245a32e87e",
+      "parentUid" : "0ff00baae3c9bd10e48574a8fa7eb4e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627576170217,
+        "stop" : 1627576174607,
+        "duration" : 4390
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testSeleniumGridParagraph()",
+      "uid" : "75f915b042083622",
+      "parentUid" : "0ff00baae3c9bd10e48574a8fa7eb4e2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627576174610,
+        "stop" : 1627576180856,
+        "duration" : 6246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0ff00baae3c9bd10e48574a8fa7eb4e2"
+  } ],
+  "name" : "suites"
+}
