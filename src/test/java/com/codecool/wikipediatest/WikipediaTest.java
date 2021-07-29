@@ -30,7 +30,7 @@ public class WikipediaTest {
 
     @BeforeAll
     static void setDriverProperty() {
-        System.setProperty("webdriver.chrome.driver", "D:/!CodeCool Automation Testing Course/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
     }
 
     @BeforeEach
