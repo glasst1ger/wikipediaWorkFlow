@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.codecool.wikipediatest.WikipediaTest",
+    "children" : [ {
+      "name" : "testWikipedia",
+      "uid" : "77b3dc2ad2dfe595",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627571807033,
+        "stop" : 1627571807111,
+        "duration" : 78
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testFrameworkSearch",
+      "uid" : "95cdaf4dd6d4865d",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627571807218,
+        "stop" : 1627571807231,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testChangeFontSettings",
+      "uid" : "efde7eff033f673e",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627571807237,
+        "stop" : 1627571807247,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testLoginWiki",
+      "uid" : "2b5f21cbeee123a0",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627571807253,
+        "stop" : 1627571807260,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testSeleniumGridParagraph",
+      "uid" : "a71cb1f490bb63f5",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627571807266,
+        "stop" : 1627571807268,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.codecool.wikipediatest.WikipediaTest"
+  } ],
+  "name" : "packages"
+}

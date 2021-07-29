@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az82-711",
+    "children" : [ {
+      "name" : "2802@fv-az82-711.ForkJoinPool-1-worker-1(12)",
+      "children" : [ {
+        "name" : "testLoginWiki()",
+        "uid" : "2b5f21cbeee123a0",
+        "parentUid" : "efcfa8283842429f41b81fee75da28aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571807253,
+          "stop" : 1627571807260,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testFrameworkSearch()",
+        "uid" : "95cdaf4dd6d4865d",
+        "parentUid" : "efcfa8283842429f41b81fee75da28aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571807218,
+          "stop" : 1627571807231,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSeleniumGridParagraph()",
+        "uid" : "a71cb1f490bb63f5",
+        "parentUid" : "efcfa8283842429f41b81fee75da28aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571807266,
+          "stop" : 1627571807268,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testChangeFontSettings()",
+        "uid" : "efde7eff033f673e",
+        "parentUid" : "efcfa8283842429f41b81fee75da28aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571807237,
+          "stop" : 1627571807247,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWikipedia()",
+        "uid" : "77b3dc2ad2dfe595",
+        "parentUid" : "efcfa8283842429f41b81fee75da28aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571807033,
+          "stop" : 1627571807111,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "efcfa8283842429f41b81fee75da28aa"
+    } ],
+    "uid" : "4d8ea69617988f49b0e1c8c0840ccbf4"
+  } ],
+  "name" : "timeline"
+}
