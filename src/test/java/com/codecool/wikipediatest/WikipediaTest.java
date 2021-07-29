@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -33,13 +34,14 @@ public class WikipediaTest {
     @BeforeEach
     public void setWebDriver() {
         WebDriverManager.chromedriver().setup();
-        webDriver = new ChromeDriver();
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("start-maximized"); // teljes képernyőőben való használat
         options.addArguments("--no-sandbox");
         options.addArguments("--disable-dev-shm-usage");
         options.addArguments("--headless");
         webDriver = new ChromeDriver(options);
+
+        webDriver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        webDriver.manage().window().maximize();
     }
 
     @Test
