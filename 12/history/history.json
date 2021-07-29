@@ -2,13 +2,23 @@
   "e40fa7545a7623f7f40e9852aa8a8edb" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 5,
+      "broken" : 6,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "fa95ead9a10a9f15",
+      "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/fa95ead9a10a9f15",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"mw-ui-button mw-ui-progressive active uls-settings-apply webfonts-changed\" data-i18n=\"ext-uls-language-settings-apply\" disabled=\"\" style=\"font-family: ComicNeue, sans-serif;\">...</button> is not clickable at point (728, 569). Other element would receive the click: <div class=\"row collapse language-settings-buttons\">...</div>\n  (Session info: headless chrome=92.0.4515.107)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az47-334', ip: '10.1.0.58', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.HRrZqY}, goog:chromeOptions: {debuggerAddress: localhost:43707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9e3b55ab5b7ad0f22ef10e65f5667f74",
+      "time" : {
+        "start" : 1627575730815,
+        "stop" : 1627575737125,
+        "duration" : 6310
+      }
+    }, {
       "uid" : "2859887f3c1e5007",
       "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/2859887f3c1e5007",
       "status" : "passed",
@@ -72,13 +82,23 @@
   "7d4447a1656727e1b465214ba85e9404" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 6,
+      "broken" : 7,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "3d99b157bd91f8d8",
+      "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/3d99b157bd91f8d8",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: headless chrome=92.0.4515.107)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az47-334', ip: '10.1.0.58', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.HdQnDT}, goog:chromeOptions: {debuggerAddress: localhost:36895}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b14622a62ef50d02e3c49ec833b6c6b1",
+      "time" : {
+        "start" : 1627575741999,
+        "stop" : 1627575748933,
+        "duration" : 6934
+      }
+    }, {
       "uid" : "8ab15cd72658499",
       "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/8ab15cd72658499",
       "status" : "broken",
@@ -145,11 +165,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "92f632529d5ab6ad",
+      "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/92f632529d5ab6ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627575709014,
+        "stop" : 1627575724411,
+        "duration" : 15397
+      }
+    }, {
       "uid" : "24d632b16aba9507",
       "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/24d632b16aba9507",
       "status" : "passed",
@@ -215,11 +244,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "ce7ddf6a7d5823a8",
+      "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/ce7ddf6a7d5823a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627575724505,
+        "stop" : 1627575730806,
+        "duration" : 6301
+      }
+    }, {
       "uid" : "4868f645cdae0cf8",
       "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/4868f645cdae0cf8",
       "status" : "passed",
@@ -285,11 +323,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "1394f6b5730b70aa",
+      "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/1394f6b5730b70aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627575737135,
+        "stop" : 1627575741995,
+        "duration" : 4860
+      }
+    }, {
       "uid" : "58e1cf163510e017",
       "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/12//#testresult/58e1cf163510e017",
       "status" : "passed",
