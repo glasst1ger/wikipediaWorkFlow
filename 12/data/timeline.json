@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az39-997",
+    "children" : [ {
+      "name" : "2905@fv-az39-997.ForkJoinPool-1-worker-1(12)",
+      "children" : [ {
+        "name" : "testChangeFontSettings()",
+        "uid" : "2859887f3c1e5007",
+        "parentUid" : "6654f5825b1379e040a294df0b970d93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627573750905,
+          "stop" : 1627573756930,
+          "duration" : 6025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLoginWiki()",
+        "uid" : "58e1cf163510e017",
+        "parentUid" : "6654f5825b1379e040a294df0b970d93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627573756934,
+          "stop" : 1627573761661,
+          "duration" : 4727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testFrameworkSearch()",
+        "uid" : "4868f645cdae0cf8",
+        "parentUid" : "6654f5825b1379e040a294df0b970d93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627573745176,
+          "stop" : 1627573750900,
+          "duration" : 5724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWikipedia()",
+        "uid" : "24d632b16aba9507",
+        "parentUid" : "6654f5825b1379e040a294df0b970d93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627573727636,
+          "stop" : 1627573745084,
+          "duration" : 17448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSeleniumGridParagraph()",
+        "uid" : "8ab15cd72658499",
+        "parentUid" : "6654f5825b1379e040a294df0b970d93",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627573761664,
+          "stop" : 1627573768200,
+          "duration" : 6536
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6654f5825b1379e040a294df0b970d93"
+    } ],
+    "uid" : "97287b621abae7ccd417b6afaf879007"
+  } ],
+  "name" : "timeline"
+}
