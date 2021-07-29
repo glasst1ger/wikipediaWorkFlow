@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.codecool.wikipediatest.WikipediaTest",
+    "children" : [ {
+      "name" : "testWikipedia",
+      "uid" : "2b9db35c179916d6",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627573023657,
+        "stop" : 1627573034490,
+        "duration" : 10833
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testFrameworkSearch",
+      "uid" : "91902023b12ba035",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627573034578,
+        "stop" : 1627573034758,
+        "duration" : 180
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testChangeFontSettings",
+      "uid" : "d494ad05b0b40732",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627573034764,
+        "stop" : 1627573034929,
+        "duration" : 165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testLoginWiki",
+      "uid" : "3e8bb1199fee1abd",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627573034935,
+        "stop" : 1627573035142,
+        "duration" : 207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testSeleniumGridParagraph",
+      "uid" : "469f49542df02819",
+      "parentUid" : "7676786e98e1b332ffe90dbf4fc360a3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1627573035146,
+        "stop" : 1627573035318,
+        "duration" : 172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.codecool.wikipediatest.WikipediaTest"
+  } ],
+  "name" : "packages"
+}
