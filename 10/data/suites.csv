@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Jul 29 15:28:46 GMT 2021","Thu Jul 29 15:28:46 GMT 2021","169","","com.codecool.wikipediatest.WikipediaTest","","com.codecool.wikipediatest.WikipediaTest","testFrameworkSearch","testFrameworkSearch()",""
+"broken","Thu Jul 29 15:28:46 GMT 2021","Thu Jul 29 15:28:46 GMT 2021","165","","com.codecool.wikipediatest.WikipediaTest","","com.codecool.wikipediatest.WikipediaTest","testChangeFontSettings","testChangeFontSettings()",""
+"broken","Thu Jul 29 15:28:46 GMT 2021","Thu Jul 29 15:28:46 GMT 2021","169","","com.codecool.wikipediatest.WikipediaTest","","com.codecool.wikipediatest.WikipediaTest","testSeleniumGridParagraph","testSeleniumGridParagraph()",""
+"broken","Thu Jul 29 15:28:39 GMT 2021","Thu Jul 29 15:28:46 GMT 2021","6710","","com.codecool.wikipediatest.WikipediaTest","","com.codecool.wikipediatest.WikipediaTest","testWikipedia","testWikipedia()",""
+"broken","Thu Jul 29 15:28:46 GMT 2021","Thu Jul 29 15:28:46 GMT 2021","146","","com.codecool.wikipediatest.WikipediaTest","","com.codecool.wikipediatest.WikipediaTest","testLoginWiki","testLoginWiki()",""

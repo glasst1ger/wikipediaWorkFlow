@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://glasst1ger.github.io/wikipediaWorkFlow",
+  "buildOrder" : 10,
+  "buildName" : "GitHub Actions Run #1079148704",
+  "buildUrl" : "https://github.com/glasst1ger/wikipediaWorkFlow/actions/runs/1079148704",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://glasst1ger.github.io/wikipediaWorkFlow/10/"
+} ]
