@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az82-711",
+    "children" : [ {
+      "name" : "2808@fv-az82-711.ForkJoinPool-1-worker-1(12)",
+      "children" : [ {
+        "name" : "testFrameworkSearch()",
+        "uid" : "1a4151a8699fc3be",
+        "parentUid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627572261519,
+          "stop" : 1627572261679,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testChangeFontSettings()",
+        "uid" : "56e84c02de7ad1e8",
+        "parentUid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627572261690,
+          "stop" : 1627572261861,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSeleniumGridParagraph()",
+        "uid" : "15afef7d92e9b31f",
+        "parentUid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627572262037,
+          "stop" : 1627572262180,
+          "duration" : 143
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWikipedia()",
+        "uid" : "3d905e0400e2e3bf",
+        "parentUid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627572254240,
+          "stop" : 1627572261427,
+          "duration" : 7187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLoginWiki()",
+        "uid" : "5f11c41ed6365456",
+        "parentUid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627572261867,
+          "stop" : 1627572262025,
+          "duration" : 158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bbc7c4401dd5aa1f14c8d2ffe78be6cb"
+    } ],
+    "uid" : "4d8ea69617988f49b0e1c8c0840ccbf4"
+  } ],
+  "name" : "timeline"
+}
