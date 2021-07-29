@@ -40,7 +40,7 @@ public class WikipediaTest {
         options.addArguments("--headless");
         webDriver = new ChromeDriver(options);
 
-        webDriver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        // webDriver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         webDriver.manage().window().maximize();
     }
 
