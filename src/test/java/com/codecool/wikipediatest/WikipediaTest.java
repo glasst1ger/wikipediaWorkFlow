@@ -7,9 +7,11 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 import java.util.List;
 
@@ -28,14 +30,16 @@ public class WikipediaTest {
         return new WebDriverWait(webDriver, 10);
     }
 
-    @BeforeAll
-    static void setDriverProperty() {
-        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-    }
-
     @BeforeEach
     public void setWebDriver() {
+        WebDriverManager.chromedriver().setup();
         webDriver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("start-maximized"); // teljes képernyőőben való használat
+        options.addArguments("--no-sandbox");
+        options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--headless");
+        webDriver = new ChromeDriver(options);
     }
 
     @Test
