@@ -1,0 +1,78 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "The driver executable does not exist: /home/runner/work/wikipediaWorkFlow/wikipediaWorkFlow/D:/!CodeCool Automation Testing Course/chromedriver.exe",
+      "children" : [ {
+        "name" : "testWikipedia()",
+        "uid" : "f4512084ffd67903",
+        "parentUid" : "3354e86e3c1c071981c663f281bc7f0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571460004,
+          "stop" : 1627571460073,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testFrameworkSearch()",
+        "uid" : "487e46b543c6530b",
+        "parentUid" : "3354e86e3c1c071981c663f281bc7f0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571460162,
+          "stop" : 1627571460164,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testChangeFontSettings()",
+        "uid" : "fe04f9112c7d499b",
+        "parentUid" : "3354e86e3c1c071981c663f281bc7f0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571460170,
+          "stop" : 1627571460173,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLoginWiki()",
+        "uid" : "852fe775f49bb848",
+        "parentUid" : "3354e86e3c1c071981c663f281bc7f0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571460177,
+          "stop" : 1627571460179,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSeleniumGridParagraph()",
+        "uid" : "8454ec06733ee701",
+        "parentUid" : "3354e86e3c1c071981c663f281bc7f0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627571460183,
+          "stop" : 1627571460185,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3354e86e3c1c071981c663f281bc7f0a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "852fe775f49bb848",
+  "name" : "testLoginWiki()",
+  "time" : {
+    "start" : 1627571460177,
+    "stop" : 1627571460179,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8454ec06733ee701",
+  "name" : "testSeleniumGridParagraph()",
+  "time" : {
+    "start" : 1627571460183,
+    "stop" : 1627571460185,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f4512084ffd67903",
+  "name" : "testWikipedia()",
+  "time" : {
+    "start" : 1627571460004,
+    "stop" : 1627571460073,
+    "duration" : 69
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe04f9112c7d499b",
+  "name" : "testChangeFontSettings()",
+  "time" : {
+    "start" : 1627571460170,
+    "stop" : 1627571460173,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "487e46b543c6530b",
+  "name" : "testFrameworkSearch()",
+  "time" : {
+    "start" : 1627571460162,
+    "stop" : 1627571460164,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
